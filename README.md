@@ -17,6 +17,6 @@ I'm a 20y ux/ui padawan, looking for jobs and freelances, working on some projec
 [![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)](https://www.adobe.com/br/products/photoshop.html) [![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white)](https://www.adobe.com/br/products/illustrator.html) [![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=white)](https://www.adobe.com/br/products/indesign.html) [![Figma](https://img.shields.io/badge/figma-yellow?style=for-the-badge&logo=figma&logoColor=white)](https://figma.com)
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=pabloalbrnz&theme=jolly&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=pabloalbrnz&theme=jolly&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=pabloalbrnz&theme=jolly&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=pblalbrnz&theme=jolly&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=pblalbrnz&theme=jolly&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=pblalbrnz&theme=jolly&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
